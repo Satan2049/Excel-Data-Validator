@@ -1,0 +1,25 @@
+# Virtual environment
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Excel files (generated outputs)
+data/output.xlsx
+data/output_*.xlsx
+
+# Temporary Excel files
+~$*.xlsx
